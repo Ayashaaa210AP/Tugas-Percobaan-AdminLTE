@@ -1,0 +1,25 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.text-center {
+    text-align: center;
+    padding: 20px;
+}
+
+h1.display-4 {
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.nav-item .nav-link {
+    font-weight: bold;
+    color: #0056b3 !important;
+}
+
+    .nav-item .nav-link:hover {
+        color: #003080 !important;
+        text-decoration: underline;
+    }
